@@ -3,7 +3,7 @@ const hours = document.getElementById("hours");
 const minutes = document.getElementById("minutes");
 const seconds = document.getElementById("seconds");
 
-const birthday = new Date("December 10 2024 11:25:00");
+const birthday = new Date("December 11 2024 00:00:00");
 
 function updateCountdown() {
     const currentTime = new Date();
